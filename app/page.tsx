@@ -505,9 +505,21 @@ export default function LandingPage() {
               </p>
 
               <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4 mt-6">
-                <a href="https://mba.globis.ac.jp/inquiry/#yokohama" target="_blank" rel="noopener noreferrer" className="bg-gray-400 text-white px-4 py-2 rounded cursor-not-allowed" /*disabled*/>
-                  チケット購入
-                </button>
+
+  {/* チケット購入（外部：Peatix想定） */}
+  <Link
+    href="https://mba.globis.ac.jp/inquiry/#yokohama"     // ← 実際のイベントURLに
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center justify-center bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded"
+    aria-label="チケット購入（新しいタブで開きます）"
+  >
+    チケット購入
+  </Link>
+                
+               //<a href="https://mba.globis.ac.jp/inquiry/#yokohama" target="_blank" rel="noopener noreferrer" className="bg-gray-400 text-white px-4 py-2 rounded cursor-not-allowed" /*disabled*/>
+                  //チケット購入
+                //</button>
                 <button className="bg-gray-400 text-white px-4 py-2 rounded cursor-not-allowed" /*disabled*/>
                   セッション申し込み
                 </button>
