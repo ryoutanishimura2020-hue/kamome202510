@@ -534,6 +534,13 @@ export default function LandingPage() {
                  className="bg-yellow-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" 
                  /*disabled*/>
                   チケット購入
+               </a>               
+                <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
+                 target="_blank" 
+                 rel="noopener noreferrer" 
+                 className="bg-yellow-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" 
+                 /*disabled*/>
+                  セッション申込
                </a>
                 <button 
                   className="bg-gray-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" /*disabled*/>
