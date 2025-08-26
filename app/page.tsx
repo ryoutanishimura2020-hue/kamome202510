@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import { useState, useEffect, useRef } from 'react'
-import { Calendar, MapPin, ExternalLink, Facebook, Building2, User, AlertTriangle } from 'lucide-react'
+import { Calendar, MapPin, ExternalLink, Facebook, Building2, User, {/*AlertTriangle*/} } from 'lucide-react'
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 
 const HeroAnimation = () => {
