@@ -536,10 +536,20 @@ export default function LandingPage() {
                  /*disabled*/>
                   チケット購入
                </a>
+               <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
+                 target="_blank" 
+                 rel="noopener noreferrer" 
+                 className="bg-yellow-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" 
+                 /*disabled*/>
+                  セッション申し込み
+               </a>
+                
+                {/*チケット完売後のボタン表示用
                 <button 
                   className="bg-gray-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" /*disabled*/>
                   セッション申し込み
                 </button>
+              */}
               </div>
             </div>
           </div>
