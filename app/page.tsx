@@ -499,8 +499,8 @@ export default function LandingPage() {
               <h4 className="text-lg font-bold mb-2">お問い合わせ</h4>
               <p className="mb-1">かもめ会議運営事務局</p>
               <p className="mb-4">
-                <a href="mailto:kamome_2024.stu@globis.ac.jp" className="text-blue-600 hover:underline">
-                  kamome_2024.stu@globis.ac.jp
+                <a href="mailto:kamome_2025.stu@globis.ac.jp" className="text-blue-600 hover:underline">
+                  kamome_2025.stu@globis.ac.jp
                 </a>
               </p>
 
