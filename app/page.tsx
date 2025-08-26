@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import { useState, useEffect, useRef } from 'react'
-import { Calendar, MapPin, ExternalLink, Facebook, Building2, User, {/*AlertTriangle*/} } from 'lucide-react'
+import { Calendar, MapPin, ExternalLink, Facebook, Building2, User, AlertTriangle } from 'lucide-react'
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 
 const HeroAnimation = () => {
@@ -492,7 +492,7 @@ export default function LandingPage() {
               {/*販売中のメッセージ*/}
               <div className="bg-green-100 text-black-700 p-4 mb-6 rounded-lg">
                 <p className="font-bold flex items-center">
-                  {/*<AlertTriangle className="mr-2" />*/}
+                  <AlertTriangle className="mr-2" />
                   チケット販売中
                 </p>
                 <p>チケット販売中です。</p>
