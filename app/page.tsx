@@ -527,8 +527,7 @@ export default function LandingPage() {
               </p>
 
               <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4 mt-6">
-
-              
+             
                <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
                  target="_blank" 
                  rel="noopener noreferrer" 
@@ -536,7 +535,8 @@ export default function LandingPage() {
                  /*disabled*/>
                   チケット購入
                </a>
-               <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
+                
+                <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
                  target="_blank" 
                  rel="noopener noreferrer" 
                  className="bg-yellow-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" 
