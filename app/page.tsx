@@ -526,7 +526,7 @@ export default function LandingPage() {
                   <Calendar className="mr-2" />
                   開催日時
                 </h3>
-                <p className="mb-2">2024年11月10日（日）</p>
+                <p className="mb-2">2025年10月19日（日）</p>
                 <p>10:00-17:15 (受付開始 09:30)</p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-md">
@@ -567,9 +567,9 @@ export default function LandingPage() {
         <div className="container mx-auto px-4 max-w-6xl">
           <div className="text-center">
             <p>
-              お問い合わせ: <a href="mailto:kamome_2024.stu@globis.ac.jp" className="hover:underline">kamome_2024.stu@globis.ac.jp</a>
+              お問い合わせ: <a href="mailto:kamome_2025.stu@globis.ac.jp" className="hover:underline">kamome_2025.stu@globis.ac.jp</a>
             </p>
-            <p className="mt-4">&copy; 2024 かもめ会議. All rights reserved.</p>
+            <p className="mt-4">&copy; 2025 かもめ会議. All rights reserved.</p>
           </div>
         </div>
       </footer>
