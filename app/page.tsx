@@ -542,10 +542,10 @@ export default function LandingPage() {
                  /*disabled*/>
                   セッション申込
                </a>
-                <button 
+                {/*<button 
                   className="bg-gray-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" /*disabled*/>
                   セッション申し込み
-                </button>
+                </button>*/}
               </div>
             </div>
           </div>
