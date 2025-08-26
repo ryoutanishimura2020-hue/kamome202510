@@ -231,8 +231,16 @@ const schedule = [
         title: 'ヨコハマ未来創造会議\n～フードサーキュラーを起点に子どもの可能性を最大化するには？～',
         description: '2027年に横浜で開催される、GREEN×EXPO 2027（2027年国際園芸博覧会）を契機に、現在の大学生や企業の若手社員の若者が参加して、将来の社会についての議論、共感、自分ごとの醸成を目指す「ヨコハマ未来創造会議」が本年横浜市で立ち上がりました。\n全部で5つのプロジェクトが進行中で、その中の「フードサーキュラーを起点に子どもの可能性を最大化するには？」に取り組んでいるチームの発表を行っていただきます。キーワードは、#フードロス、＃貧困解決、＃学校給食。当日はプロジェクトの発表とともに、かもめ会議参加者と意見交換ができればと考えております。',
         speakers: [
-          { name: '榎 裕子氏 (GMBA2022期)', organization: 'ヨコハマ未来創造会議 メンバー', position: '', info: '', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%9C%AA%E6%9D%A5%E4%BC%9A%E8%AD%B0_%E6%A6%8E%E3%81%95%E3%82%93-mQAcpSPen6tOaEiRAL8wIkWkiqZNVV.png' },
-          { name: '馬場 英鷹氏 (GMBA2021期)', organization: 'ヨコハマ未来創造会議 メンバー', position: '', info: '', image: '/ヨコハマ未来会議_馬場さん.png'/*https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%9C%AA%E6%9D%A5%E4%BC%9A%E8%AD%B0_%E9%A6%AC%E5%A0%B4%E3%81%95%E3%82%93-r56OjWtqO39IasrnkP0tTuxQuMUjQ0.png*/ }
+          { name: '榎 裕子氏 (GMBA2022期)', 
+           organization: 'ヨコハマ未来創造会議 メンバー', 
+           position: '', 
+           info: '', 
+           image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%9C%AA%E6%9D%A5%E4%BC%9A%E8%AD%B0_%E6%A6%8E%E3%81%95%E3%82%93-mQAcpSPen6tOaEiRAL8wIkWkiqZNVV.png' },
+          { name: '馬場 英鷹氏 (GMBA2021期)', 
+           organization: 'ヨコハマ未来創造会議 メンバー', 
+           position: '', 
+           info: '', 
+           image: '/ヨコハマ未来会議_馬場さん.png'/*https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%9C%AA%E6%9D%A5%E4%BC%9A%E8%AD%B0_%E9%A6%AC%E5%A0%B4%E3%81%95%E3%82%93-r56OjWtqO39IasrnkP0tTuxQuMUjQ0.png*/ }
         ]
       }
     ]
@@ -481,6 +489,17 @@ export default function LandingPage() {
             <h2 className="text-3xl font-bold mb-8 text-center">参加申し込み</h2>
             <div className="bg-[#f4f4f4] p-6 rounded-lg shadow-md mb-8">
               <h3 className="text-xl font-bold mb-4">申し込み状況</h3>
+              {/*販売中のメッセージ*/}
+              <div className="bg-green-100 text-black-700 p-4 mb-6 rounded-lg">
+                <p className="font-bold flex items-center">
+                  <AlertTriangle className="mr-2" />
+                  チケット販売中
+                </p>
+                <p>チケット販売中です。</p>
+                <p>かもめ会議2025。</p>
+                <p>奮ってご参加ください。</p>
+                
+              {/*完売したときのメッセージ
               <div className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4 mb-6 rounded-lg">
                 <p className="font-bold flex items-center">
                   <AlertTriangle className="mr-2" />
@@ -489,6 +508,9 @@ export default function LandingPage() {
                 <p>多数のお申し込みをいただき誠にありがとうございます。</p>
                 <p>かもめ会議2024は全席完売となりました。</p>
                 <p>次回の開催をご期待ください。</p>
+                */}
+
+                
               </div>
 
               <h4 className="text-lg font-bold mb-2">購入済みチケットについて</h4>
