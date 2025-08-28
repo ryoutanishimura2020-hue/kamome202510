@@ -184,14 +184,14 @@ const schedule = [
             organization: '横浜ベイシェラトンホテル &タワーズ', 
             position: '収益管理部 宿泊レベニューマネージャー', 
             info: '',
-            image: ''
+            image: '/登壇者_0_2.jpg'
           },
           { 
             name: '中川 徹さん (GMBA2015期)', 
             organization: '株式会社　高島屋', 
             position: '経営企画部　経営企画担当部長', 
             info: '',
-            image: ''
+            image: '/登壇者_0_3.jpg'
           },
           { 
             name: '得能 淳氏 (GMBA2017期)', 
@@ -222,7 +222,7 @@ const schedule = [
             organization: '株式会社日本食品遺伝科学', 
             position: '代表取締役社長', 
             info: '',
-            image: ''
+            image: '/登壇者_A_1.jpg'
           }
         ]
       },
@@ -235,12 +235,12 @@ const schedule = [
            organization: 'ピープルポート株式会社', 
            position: '法人連携統括責任者', 
            info: '', 
-           image: '' },
+           image: '/登壇者_B_1.jpg' },
           { name: '青山 明弘さん', 
            organization: 'ピープルポート株式会社', 
            position: '代表取締役社長', 
            info: '', 
-           image: '' }
+           image: '/登壇者_B_2.jpg' }
         ]
       }
     ]
@@ -263,7 +263,7 @@ const schedule = [
             organization: 'BACK AGING', 
             position: '鍼灸師/トレーナー', 
             info: '',
-            image: ''
+            image: '/登壇者_C_1.jpg'
           }
         ]
       },
@@ -277,7 +277,7 @@ const schedule = [
             organization: '一般財団法人すこやかさ ゆたかさの未来研究所', 
             position: '代表理事', 
             info: '',
-            image: ''
+            image: '/登壇者_D_1.jpg'
           }
         ]
       }
@@ -301,7 +301,7 @@ const schedule = [
             organization: 'Ikigai lab. ', 
             position: 'オーナー', 
             info: '',
-            image: ''
+            image: '/登壇者_E_1.jpg'
           }
         ]
       },
