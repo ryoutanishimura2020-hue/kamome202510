@@ -168,28 +168,30 @@ const schedule = [
     duration: '(75min.)',
     sessions: [
       {
-        event: 'AAABBB全体会TES',
-        title: '横浜の卒業生が語る、GLOBISや地域のつながりを活かした志の実現',
-        description: '横浜にゆかりのある4名の登壇者を迎え、起業や社会活動を通じて得た体験や、その背景にある志についてお話しいただくパネルディスカッションを開催します。\n在学中に意識していたことや卒業後に感じていることなど、自己実現に向けての取り組みをお伝えします。\nネットワーキングの重要性や、コミュニティ形成の秘訣、そして予期せぬ出会いがもたらす価値についても掘り下げていきます。参加者の皆さまには、新たな視点や一歩を踏み出すためのきっかけを提供いたします。',
+        event: '全体会',
+        title: '「横浜×挑戦」グロービス卒業生のトークセッション！！',
+        description: '「横浜で踏み出す一歩」
+          \n横浜で挑戦を続けるグロービス経営大学院の卒業生3名が登壇！挑戦の喜びと困難を、リアルな体験談とともに語り尽くす特別セッションです。
+          \nグロービスで培った学びや人的ネットワークをどのように生かし、足りていない所をどう補い、乗り越えてきたのかを語ってもらいます。さらに多様な分野でのキャリアや挑戦の物語を通じて、参加者に、新たな視点と“一歩踏み出す勇気”を届け、皆様から大いなる横浜も語ってもらいます。',
         speakers: [
           { 
-            name: 'AAA高野 俊行氏 (GMBA2019期)', 
-            organization: 'ユニクル株式会社', 
-            position: 'CEO', 
+            name: '加藤 優子さん (GMBA2019期)', 
+            organization: 'コクヨアンドパートナーズ株式会社', 
+            position: 'ベリーダンサー/インストラクター', 
             info: '',
-            image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%85%A8%E4%BD%93%E4%BC%9A_%E9%AB%98%E9%87%8E%E3%81%95%E3%82%93-uKJhmvh7QUzX65dpUjHR55I2p9ujmL.png'
+            image: '/top.png'
           },
           { 
-            name: '大野 淳史氏 (GMBA2019期)', 
-            organization: 'TOPPANホールディングス', 
-            position: '事業開発本部ビジネスイノベーションセンター戦略投資部', 
+            name: '根尾 暁子さん (GMBA2022期)', 
+            organization: '横浜ベイシェラトンホテル &タワーズ', 
+            position: '収益管理部 宿泊レベニューマネージャー', 
             info: '',
             image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%85%A8%E4%BD%93%E4%BC%9A_%E5%A4%A7%E9%87%8E%E3%81%95%E3%82%93-BzXER9riCrQo5zkM5RP8sF2qPVeigV.png'
           },
           { 
-            name: '古野 直毅氏 (GMBA2021期)', 
-            organization: 'フィクスコンシェル株式会社', 
-            position: '代表取締役', 
+            name: '中川 徹さん (GMBA2015期)', 
+            organization: '株式会社　高島屋', 
+            position: '経営企画部　経営企画担当部長', 
             info: '',
             image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/furuno-tJaoGkQuzJiFIEj7890LaStZUoPqaH.png'
           },
