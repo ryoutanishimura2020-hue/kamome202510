@@ -177,7 +177,7 @@ const schedule = [
             organization: 'コクヨアンドパートナーズ株式会社', 
             position: 'ベリーダンサー/インストラクター', 
             info: '',
-            image: '/登壇者_0_1.png'
+            image: '/登壇者_0_1.jpg'
           },
           { 
             name: '根尾 暁子さん (GMBA2022期)', 
