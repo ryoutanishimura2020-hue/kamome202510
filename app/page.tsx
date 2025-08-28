@@ -177,21 +177,21 @@ const schedule = [
             organization: 'コクヨアンドパートナーズ株式会社', 
             position: 'ベリーダンサー/インストラクター', 
             info: '',
-            image: '/top.png'
+            image: ''
           },
           { 
             name: '根尾 暁子さん (GMBA2022期)', 
             organization: '横浜ベイシェラトンホテル &タワーズ', 
             position: '収益管理部 宿泊レベニューマネージャー', 
             info: '',
-            image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%85%A8%E4%BD%93%E4%BC%9A_%E5%A4%A7%E9%87%8E%E3%81%95%E3%82%93-BzXER9riCrQo5zkM5RP8sF2qPVeigV.png'
+            image: ''
           },
           { 
             name: '中川 徹さん (GMBA2015期)', 
             organization: '株式会社　高島屋', 
             position: '経営企画部　経営企画担当部長', 
             info: '',
-            image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/furuno-tJaoGkQuzJiFIEj7890LaStZUoPqaH.png'
+            image: ''
           },
           { 
             name: '得能 淳氏 (GMBA2017期)', 
@@ -214,33 +214,33 @@ const schedule = [
     sessions: [
       {
         event: '分科会A',
-        title: '新規事業への挑戦\n〜対話を通して見えない枠を外してみよう〜',
-        description: '思いついたアイディアを他の人に話すの恥ずかしい‥や、そんなの前例ないし‥とか、うまくいかなかったらどうしよう‥、のように、新しいことへの挑戦は自分の中に勝手に作っている見えない壁が原因であることが多いです。上手くいかないながらも聴覚障害者向けの事業を進めてきた私の事例をもとに、それだったら自分もできるかも、言われてみたら自分だけが気にしているだけかも、など、少しでも見えない壁を取り除き、一歩踏み出すきっかけを一緒に見つけられるようなセッションをご提供します。',
+        title: '非MBA人材アントレプレナーシップのリアル',
+        description: 'ファウンダー（新しい組織・事業を作ってチャンスをとらえようとする個人）である参加者の皆様は、これから一歩を踏み出す際に、多くの意思決定を意図的に行う必要がある。そこには、いくつものジレンマが存在している。\n本セッションでは、企業で遺伝子解析の技術者として活躍後、起業された小野秀彰氏をお迎えし、Tec技術者が独学にてビジネスを学び、数々のジレンマをどのように乗り越えて今に至ったのか、参加者の皆様と共に掘り下げるセミナーを予定している。',
         speakers: [
           { 
-            name: '岩田 佳子氏 (GMBA2022期)', 
-            organization: '株式会社リコー', 
-            position: '', 
+            name: '小野 秀彰さん', 
+            organization: '株式会社日本食品遺伝科学', 
+            position: '代表取締役社長', 
             info: '',
-            image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD_%E5%B2%A9%E7%94%B0%E3%81%95%E3%82%93-uXFdwJ6pZEvHdz7iaUh2IFWk2PGTG4.png'
+            image: ''
           }
         ]
       },
       {
         event: '分科会B',
-        title: 'ヨコハマ未来創造会議\n～フードサーキュラーを起点に子どもの可能性を最大化するには？～',
-        description: '2027年に横浜で開催される、GREEN×EXPO 2027（2027年国際園芸博覧会）を契機に、現在の大学生や企業の若手社員の若者が参加して、将来の社会についての議論、共感、自分ごとの醸成を目指す「ヨコハマ未来創造会議」が本年横浜市で立ち上がりました。\n全部で5つのプロジェクトが進行中で、その中の「フードサーキュラーを起点に子どもの可能性を最大化するには？」に取り組んでいるチームの発表を行っていただきます。キーワードは、#フードロス、＃貧困解決、＃学校給食。当日はプロジェクトの発表とともに、かもめ会議参加者と意見交換ができればと考えております。',
+        title: '【ソーシャル】\n「難民ゼロ」の社会課題を「環境負荷ゼロ」で解決する高難度のソーシャルビジネス経営者の挑戦',
+        description: 'ソーシャルビジネスの先駆者ボーダレスジャパンから出資を受け、2017年から横浜で難民の自社雇用に挑むピープルポート。リユースPC事業を通じ「難民ゼロ」と「環境負荷ゼロ」を目指す独自モデルを展開。本講演では、その熱い想いと、理想と現実の狭間で揺れながらも挑戦を続けるソーシャルビジネスの裏側のリアルを、日々挑戦している青山さんと藤井さんから語っていただきます。',
         speakers: [
-          { name: '榎 裕子氏 (GMBA2022期)', 
-           organization: 'ヨコハマ未来創造会議 メンバー', 
-           position: '', 
+          { name: '藤井 優花さん', 
+           organization: 'ピープルポート株式会社', 
+           position: '法人連携統括責任者', 
            info: '', 
-           image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%9C%AA%E6%9D%A5%E4%BC%9A%E8%AD%B0_%E6%A6%8E%E3%81%95%E3%82%93-mQAcpSPen6tOaEiRAL8wIkWkiqZNVV.png' },
-          { name: '馬場 英鷹氏 (GMBA2021期)', 
-           organization: 'ヨコハマ未来創造会議 メンバー', 
-           position: '', 
+           image: '' },
+          { name: '青山 明弘さん', 
+           organization: 'ピープルポート株式会社', 
+           position: '代表取締役社長', 
            info: '', 
-           image: '/ヨコハマ未来会議_馬場さん.png'/*https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%9C%AA%E6%9D%A5%E4%BC%9A%E8%AD%B0_%E9%A6%AC%E5%A0%B4%E3%81%95%E3%82%93-r56OjWtqO39IasrnkP0tTuxQuMUjQ0.png*/ }
+           image: '' }
         ]
       }
     ]
