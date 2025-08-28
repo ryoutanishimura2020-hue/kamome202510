@@ -222,7 +222,7 @@ const schedule = [
             organization: '株式会社日本食品遺伝科学', 
             position: '代表取締役社長', 
             info: '',
-            image: '/登壇者_A_1.jpg'
+            image: ''
           }
         ]
       },
@@ -240,7 +240,7 @@ const schedule = [
            organization: 'ピープルポート株式会社', 
            position: '代表取締役社長', 
            info: '', 
-           image: '/登壇者_B_2.jpg' }
+           image: '/登壇者_B_2.png' }
         ]
       }
     ]
@@ -263,7 +263,7 @@ const schedule = [
             organization: 'BACK AGING', 
             position: '鍼灸師/トレーナー', 
             info: '',
-            image: '/登壇者_C_1.jpg'
+            image: '/登壇者_C_1.webp'
           }
         ]
       },
@@ -277,7 +277,7 @@ const schedule = [
             organization: '一般財団法人すこやかさ ゆたかさの未来研究所', 
             position: '代表理事', 
             info: '',
-            image: '/登壇者_D_1.jpg'
+            image: '/登壇者_D_1.png'
           }
         ]
       }
@@ -301,7 +301,7 @@ const schedule = [
             organization: 'Ikigai lab. ', 
             position: 'オーナー', 
             info: '',
-            image: '/登壇者_E_1.jpg'
+            image: '/登壇者_E_1.jfif'
           }
         ]
       },
