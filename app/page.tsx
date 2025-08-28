@@ -301,7 +301,7 @@ const schedule = [
             organization: 'Ikigai lab. ', 
             position: 'オーナー', 
             info: '',
-            image: '/登壇者_E_1.jfif'
+            image: '/登壇者_E_1.jpg'
           }
         ]
       },
