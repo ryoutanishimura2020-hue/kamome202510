@@ -62,7 +62,7 @@ const HeroAnimation = () => {
     <div className="absolute items-center inset-0 w-full h-full overflow-hidden">
       {/* Background image - static */}
       <img
-        src="/bg_2025.png"
+        src="/bg.png"
         alt=""
         className="absolute inset-0 w-full h-full object-contain"
         aria-hidden="true"
