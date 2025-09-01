@@ -169,7 +169,7 @@ const schedule = [
     sessions: [
       {
         event: '全体会',
-        title: '～「横浜×挑戦」グロービス卒業生のトークセッション！！～',
+        title: '「横浜×挑戦」グロービス卒業生のトークセッション！！',
         description: '「横浜で踏み出す一歩」\n横浜で挑戦を続けるグロービス経営大学院の卒業生3名が登壇！挑戦の喜びと困難を、リアルな体験談とともに語り尽くす特別セッションです。\nグロービスで培った学びや人的ネットワークをどのように生かし、足りていない所をどう補い、乗り越えてきたのかを語ってもらいます。さらに多様な分野でのキャリアや挑戦の物語を通じて、参加者に、新たな視点と“一歩踏み出す勇気”を届け、皆様から大いなる横浜も語ってもらいます。',
         speakers: [
           { 
@@ -214,7 +214,7 @@ const schedule = [
     sessions: [
       {
         event: '分科会A',
-        title: '～非MBA人材アントレプレナーシップのリアル～',
+        title: '非MBA人材アントレプレナーシップのリアル',
         description: 'ファウンダー（新しい組織・事業を作ってチャンスをとらえようとする個人）である参加者の皆様は、これから一歩を踏み出す際に、多くの意思決定を意図的に行う必要がある。そこには、いくつものジレンマが存在している。\n本セッションでは、企業で遺伝子解析の技術者として活躍後、起業された小野秀彰氏をお迎えし、Tec技術者が独学にてビジネスを学び、数々のジレンマをどのように乗り越えて今に至ったのか、参加者の皆様と共に掘り下げるセミナーを予定している。',
         speakers: [
           { 
@@ -228,7 +228,7 @@ const schedule = [
       },
       {
         event: '分科会B',
-        title: '～「難民ゼロ」の社会課題を「環境負荷ゼロ」で解決する高難度のソーシャルビジネス経営者の挑戦～',
+        title: '「難民ゼロ」の社会課題を「環境負荷ゼロ」で解決する高難度のソーシャルビジネス経営者の挑戦',
         description: 'ソーシャルビジネスの先駆者ボーダレスジャパンから出資を受け、2017年から横浜で難民の自社雇用に挑むピープルポート。リユースPC事業を通じ「難民ゼロ」と「環境負荷ゼロ」を目指す独自モデルを展開。本講演では、その熱い想いと、理想と現実の狭間で揺れながらも挑戦を続けるソーシャルビジネスの裏側のリアルを、日々挑戦している青山さんと藤井さんから語っていただきます。',
         speakers: [
           { name: '藤井 優花 さん', 
@@ -255,7 +255,7 @@ const schedule = [
     sessions: [
       {
         event: '分科会C',
-        title: '～学生時代の原体験から生まれた想いを生業に+ビジネスパーソン向けお身体チェック～',
+        title: '学生時代の原体験から生まれた想いを生業に+ビジネスパーソン向けお身体チェック',
         description: '本セッションでは、医療従事者（鍼灸師）・トレーナーをされているBACK AGINGの和田有稀奈氏を迎えます。女子サッカー選手を志すも、5年間で3度膝の手術を経験し、満足いく現役時代を送れなかった経験から「挑戦を諦める人を減らしたい」と医療従事者（鍼灸師）となり、イタリア女子フットサル代表のトレーナー活動などを経て、現職に到ります。今回は、志の変遷についてのお話と合わせて、ビジネスパーソン向けのお身体チェックを行います！',
         speakers: [
           { 
@@ -269,7 +269,7 @@ const schedule = [
       },
       {
         event: '分科会D',
-        title: '～不屈のリーダーシップ～',
+        title: '不屈のリーダーシップ',
         description: '本セッションでは、ALSの診断を受けつつ社会に価値を創出し続ける畠中一郎氏を迎えます。コンゴでの死の危機、ハーバードMBA、大手コンサル経験を経て「生きる意味」を追究。発症後は他者と社会のために尽力し、難病支援や共助モデル構築を推進。逆境下での意思決定や挑戦の視座を語ります。',
         speakers: [
           { 
@@ -293,7 +293,7 @@ const schedule = [
     sessions: [
       {
         event: '分科会E',
-        title: '～生成AIを今後の仕事に有効的に使っていくには？～',
+        title: '生成AIを今後の仕事に有効的に使っていくには？',
         description: '生成AIに関する様々な情報を発信しているIkigai lab.の髙橋さんをお招きして、生成AIの一丁目一番地をしっかりとさらってもらう45分にしたく思います。これを機会に基礎力を身に着けて、今後の実務に活かしていきましょう。講演を実りあるものにするため、参加者からの事前の質問を募集します。出来るだけ質問内容を答えながら話を進めるものにしたく思います。なお、時間の関係ですべての質問には回答できないことをご了承していただきたく思います。',
         speakers: [
           { 
@@ -308,7 +308,7 @@ const schedule = [
 
       {
         event: '分科会F',
-        title: '～ROIC逆ツリーの生みの親が語る企業価値向上について～',
+        title: 'ROIC逆ツリーの生みの親が語る企業価値向上について',
         description: 'オムロンでROIC経営を推進し、独自の「ROIC逆ツリー」を創出した大上氏。理論の実践を愚直に重ねることにより、企業価値向上に取り組んできました。本セッションでは、ROIC経営を軸にした企業変革の実践と、その歩みが今のスタートアップ支援やエコシステムづくりへの想いにどうつながっているのかを語ります。',
         speakers: [
           { name: '大上 高充 さん', 
@@ -521,14 +521,14 @@ export default function LandingPage() {
 
               <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4 mt-6">
              
-               <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
+               <a href="https://kamome2025.peatix.com/view" 
                  target="_blank" 
                  rel="noopener noreferrer" 
                  className="bg-yellow-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" 
                  /*disabled*/>
                   チケット購入
                </a>               
-                <a href="https://mba.globis.ac.jp/inquiry/#yokohama" 
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKIasjZPpoIlYq2WN3De7ssXqOdVOD-svUVQF_ZdZkbeNbSA/viewform" 
                  target="_blank" 
                  rel="noopener noreferrer" 
                  className="bg-yellow-400 text-black font-bold px-4 py-2 rounded /*cursor-not-allowed*/" 
