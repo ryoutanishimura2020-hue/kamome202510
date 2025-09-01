@@ -99,7 +99,7 @@ const HeroAnimation = () => {
       <img
         src="/kamome_logo_padding.png"
         alt=""
-        className="absolute inset-0 w-full h-full object-contain"
+        className="absolute inset-0 w-3/4 h-auto object-contain"
         aria-hidden="true"
       />
     </div>
