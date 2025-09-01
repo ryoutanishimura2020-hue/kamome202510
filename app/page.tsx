@@ -490,7 +490,6 @@ export default function LandingPage() {
                   <AlertTriangle className="mr-2" />
                   チケット販売中
                 </p>
-                <p>チケット販売中!!</p>
                 <p>かもめ会議2025</p>
                 <p>奮ってご参加ください!!</p>
                 
