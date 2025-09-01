@@ -96,12 +96,14 @@ const HeroAnimation = () => {
       />
 
       {/* Top overlay - static */}
+    <div className="absolute inset-0 flex items-center justify-center">
       <img
         src="/kamome_logo_padding.png"
         alt=""
-        className="absolute inset-0 w-full h-full object-contain"
+        className="w-1/2 h-auto object-contain"
         aria-hidden="true"
       />
+    </div>
     </div>
   );
 };
