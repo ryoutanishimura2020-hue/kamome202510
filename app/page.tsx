@@ -323,7 +323,8 @@ const schedule = [
   },
   { startTime: '16:30', endTime: '16:45', event: '休憩', type: 'simple' },
   { startTime: '16:45', endTime: '17:15', event: 'クロージング /\nディスカッション', type: 'simple' },
-  { startTime: '18:00', endTime: '20:00', event: '懇親会', type: 'simple' }
+  { startTime: '18:00', endTime: '20:00', event: '懇親会', type: 'simple' },
+  { startTime: '11月28日(金) 19:00', endTime: '21:00', event: 'アフターセッション', type: 'simple' }
 ];
 
 type Speaker = {
