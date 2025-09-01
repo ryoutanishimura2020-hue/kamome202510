@@ -59,7 +59,7 @@ const HeroAnimation = () => {
   }, []);
 
   return (
-    <div className="absolute inset-0 w-full h-full overflow-hidden">
+    <div className="absolute items-center inset-0 w-full h-full overflow-hidden">
       {/* Background image - static */}
       <img
         src="/bg.png"
