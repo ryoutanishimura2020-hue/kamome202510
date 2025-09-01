@@ -315,7 +315,7 @@ const schedule = [
             organization: '元オムロン株式会社', 
             position: ' 執行役員 グローバル理財本部長',
             info: '中小機構 Science Tokyo 横浜ベンチャープラザ チーフインキュベーションマネージャ,同志社大学　ビジネス研究科 客員教授',
-            image: ''
+            image: '/登壇者_F_1.png'
           },
         ]
       }
