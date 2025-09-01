@@ -567,7 +567,7 @@ export default function LandingPage() {
                 </h3>
                 <p className="mb-2">JR横浜駅 北改札口、きた西口出口を出て左／徒歩5分</p>
                 <p className="mb-2">JR横浜タワー内に14Fへの直通エレベーターはございませんので、12Fで13-21F行きエレベーターまたはエスカレーターにお乗り換えいただき、14Fまでお越しください。</p>
-                <a href="https://mba.globis.ac.jp/inquiry/#yokohama" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                <a href="https://mba.globis.ac.jp/campus/yokohama/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
                   詳細なアクセス情報はこちら
                 </a>
               </div>
