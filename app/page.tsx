@@ -281,7 +281,6 @@ const schedule = [
         event: '分科会D',
         title: '不屈のリーダーシップ',
         description: '本セッションでは、ALSの診断を受けつつ社会に価値を創出し続ける畠中一郎氏を迎えます。コンゴでの死の危機、ハーバードMBA、大手コンサル経験を経て「生きる意味」を追究。発症後は他者と社会のために尽力し、難病支援や共助モデル構築を推進。逆境下での意思決定や挑戦の視座を語ります。\n\n一般財団法人すこやかさ ゆたかさの未来研究所 HP\n https://p-als.com/',
-        <p className="mb-4 whitespace-pre-line">{linkify(session.description)}</p>
         speakers: [
           {
             name: '畠中 一郎 さん',
@@ -631,22 +630,3 @@ export default function LandingPage() {
     </div>
   )
 }
-
-function linkify(text: string) {
-  return text.split(/(https?:\/\/[^\s]+)/g).map((part, i) =>
-    /^https?:\/\//.test(part) ? (
-      <a
-        key={i}
-        href={part}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="underline text-blue-600 hover:opacity-80"
-      >
-        {part}
-      </a>
-    ) : (
-      <span key={i}>{part}</span>
-    )
-  );
-}
-
