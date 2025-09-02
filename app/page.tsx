@@ -286,21 +286,6 @@ const schedule = [
       },
     ]
   },
-
-{speaker.info && (
-  <p>
-    <a 
-      href={speaker.info} 
-      target="_blank" 
-      rel="noopener noreferrer" 
-      className="text-blue-600 underline"
-    >
-      詳細はこちら
-    </a>
-  </p>
-)}
-
-  
     { startTime: '15:15', endTime: '15:30', event: '休憩', type: 'simple' },
   {
     startTime: '15:30',
@@ -419,6 +404,21 @@ const EventPopup: React.FC<EventPopupProps> = ({ session, eventType, startTime, 
                   <p className="font-bold text-sm">{speaker.name}</p>
                   <p className="text-xs">{speaker.organization}</p>
                   <p className="text-xs">{speaker.position}</p>
+                  <p className="text-xs">
+  {speaker.positionUrl || speaker.info ? (
+    <a
+      href={speaker.positionUrl ?? speaker.info}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="underline decoration-white/70 hover:decoration-white"
+    >
+      {speaker.position}
+    </a>
+  ) : (
+    speaker.position
+  )}
+</p>
+
                 </div>
               </div>
             ))}
