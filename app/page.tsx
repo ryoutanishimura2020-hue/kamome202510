@@ -286,28 +286,7 @@ const schedule = [
       },
     ]
   },
-  
-{speakers.map((speaker) => (
-  <div key={speaker.name}>
-    <p>{speaker.organization}</p>
-    <p>
-      {speaker.positionUrl ? (
-        <a
-          href={speaker.positionUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-600 underline"
-        >
-          {speaker.position}
-        </a>
-      ) : (
-        speaker.position
-      )}
-    </p>
-  </div>
-))}
-    
-  { startTime: '15:15', endTime: '15:30', event: '休憩', type: 'simple' },
+    { startTime: '15:15', endTime: '15:30', event: '休憩', type: 'simple' },
   {
     startTime: '15:30',
     endTime: '16:30',
