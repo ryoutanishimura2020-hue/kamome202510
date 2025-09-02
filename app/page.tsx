@@ -246,6 +246,7 @@ const schedule = [
            image: '/登壇者_B_1.jpg' },
           { name: '青山 明弘 さん', 
            organization: 'ピープルポート株式会社', 
+           organization2: '', 
            position: '代表取締役社長', 
            info: '', 
            image: '/登壇者_B_2.png' }
