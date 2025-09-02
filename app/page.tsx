@@ -400,7 +400,7 @@ const EventPopup: React.FC<EventPopupProps> = ({ session, eventType, startTime, 
               ※ こちらの分科会は満員につき締切となりました。ご了承ください。
             </p>
           )}
-          <p className="mb-4 whitespace-pre-line">{session.description}</p>
+          <p className="mb-4 whitespace-pre-line">{linkify(session.description)}</p>
           <div className="space-y-2">
             {session.speakers.map((speaker, speakerIndex) => (
               <div key={speakerIndex} className="flex items-center bg-[#79a7b6] text-white p-2 rounded-lg">
