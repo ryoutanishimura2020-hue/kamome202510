@@ -277,7 +277,7 @@ const schedule = [
           {
             name: '畠中 一郎 さん',
             organization: 'ハイブリッド・パートナーズ株式会社　代表取締役',
-            position:  '一般財団法人すこやかさ ゆたかさの未来研究所 HP',
+            position:  '一般財団法人すこやかさ ゆたかさの未来研究所 HP https://p-als.com/',
             info: '',
             image: '/登壇者_D_1.png',
           }
