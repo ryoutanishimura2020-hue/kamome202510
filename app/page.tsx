@@ -402,7 +402,7 @@ const EventPopup: React.FC<EventPopupProps> = ({ session, eventType, startTime, 
                 <div>
                   <p className="font-bold text-sm">{speaker.name}</p>
                   <p className="text-xs">{speaker.organization}</p>
-                  <p className="text-xs">{speaker.position}</p>
+
 <p className="text-xs">
   {speaker.info ? (
     <a 
