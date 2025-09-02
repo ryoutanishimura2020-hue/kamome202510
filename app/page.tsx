@@ -278,13 +278,13 @@ const schedule = [
             name: '畠中 一郎 さん', 
             organization: 'ハイブリッド・パートナーズ株式会社　代表取締役', 
             position: (
-        <a 
+        <a
           href="https://p-als.com/" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="text-blue-600 underline"
         >
-          '一般財団法人すこやかさ ゆたかさの未来研究所 代表理事'
+          一般財団法人すこやかさ ゆたかさの未来研究所 代表理事
         </a>
       ), 
             info: '',
