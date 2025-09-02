@@ -284,7 +284,7 @@ const schedule = [
           rel="noopener noreferrer" 
           className="text-blue-600 underline"
         >
-          一般財団法人すこやかさ ゆたかさの未来研究所 代表理事
+          '一般財団法人すこやかさ ゆたかさの未来研究所 代表理事'
         </a>) , 
             info: '',
             image: '/登壇者_D_1.png'
