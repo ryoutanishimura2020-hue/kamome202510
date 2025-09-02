@@ -177,20 +177,23 @@ const schedule = [
           { 
             name: '加藤 優子 さん (GMBA2019期)', 
             organization: 'コクヨアンドパートナーズ株式会社', 
+            organization2: '', 
             position: 'ベリーダンサー/インストラクター', 
             info: '',
             image: '/登壇者_0_1.jpg'
           },
           { 
             name: '根尾 暁子 さん (GMBA2022期)', 
-            organization: '横浜ベイシェラトンホテル &タワーズ', 
+            organization: '横浜ベイシェラトンホテル &タワーズ',
+            organization2: '', 
             position: '収益管理部 宿泊レベニューマネージャー', 
             info: '',
             image: '/登壇者_0_2.jpg'
           },
           { 
             name: '中川 徹 さん (GMBA2015期)', 
-            organization: '株式会社　高島屋', 
+            organization: '株式会社　高島屋',
+            organization2: '', 
             position: '経営企画部　経営企画担当部長', 
             info: '',
             image: '/登壇者_0_3.jpg'
@@ -198,6 +201,7 @@ const schedule = [
           { 
             name: '得能 淳 さん (GMBA2017期)', 
             organization: 'グロービス経営大学院大学', 
+            organization2: '', 
             position: '特設キャンパス責任者(横浜・仙台・水戸)', 
             info: '',
             image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%85%A8%E4%BD%93%E4%BC%9A_%E5%BE%97%E8%83%BD%E3%81%95%E3%82%93-f8HrUSOJeeBOazuchJinl2O9pFiCyj.png'
@@ -221,7 +225,8 @@ const schedule = [
         speakers: [
           { 
             name: '小野 秀彰 さん', 
-            organization: '株式会社日本食品遺伝科学', 
+            organization: '株式会社日本食品遺伝科学',
+            organization2: '', 
             position: '代表取締役社長', 
             info: '',
             image: ''
@@ -234,7 +239,8 @@ const schedule = [
         description: 'ソーシャルビジネスの先駆者であるボーダレスジャパンから出資を受け、2017年から横浜で難民の自社雇用に挑んでいるのがピープルポートです。同社はリユースPC事業を通じて「難民ゼロ」と「環境負荷ゼロ」を目指す独自のモデルを展開しています。本講演では、その熱い想いや、理想と現実の狭間で揺れながらも挑戦を続けているソーシャルビジネスの実態について、日々挑戦を続けている青山さんと藤井さんに語っていただきます。',
         speakers: [
           { name: '藤井 優花 さん', 
-           organization: 'ピープルポート株式会社', 
+           organization: 'ピープルポート株式会社',
+           organization2: '', 
            position: '法人連携統括責任者', 
            info: '', 
            image: '/登壇者_B_1.jpg' },
@@ -262,7 +268,8 @@ const schedule = [
         speakers: [
           { 
             name: '和田 有稀奈 さん', 
-            organization: 'BACK AGING', 
+            organization: 'BACK AGING',
+            organization2: '', 
             position: '鍼灸師/トレーナー', 
             info: '',
             image: '/登壇者_C_1.webp'
@@ -277,6 +284,7 @@ const schedule = [
           {
             name: '畠中 一郎 さん',
             organization: 'ハイブリッド・パートナーズ株式会社　代表取締役',
+            organization2: '', 
             position:  '一般財団法人すこやかさ ゆたかさの未来研究所　代表理事',
             info: '',
             image: '/登壇者_D_1.png',
@@ -301,6 +309,7 @@ const schedule = [
           { 
             name: '髙橋　和馬 さん', 
             organization: 'Ikigai lab. ', 
+            organization2: '', 
             position: 'オーナー', 
             info: '',
             image: '/登壇者_E_1.jpg'
