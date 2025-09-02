@@ -274,28 +274,11 @@ const schedule = [
         title: '不屈のリーダーシップ',
         description: '本セッションでは、ALSの診断を受けつつ社会に価値を創出し続ける畠中一郎氏を迎えます。コンゴでの死の危機、ハーバードMBA、大手コンサル経験を経て「生きる意味」を追究。発症後は他者と社会のために尽力し、難病支援や共助モデル構築を推進。逆境下での意思決定や挑戦の視座を語ります。',
 
-type Speaker = {
-  name: string;
-  organization: string;
-  position: React.ReactNode;
-  info: string;
-  image: string;
-};
-
-const speakers: Speaker[] = [
+        speakers: [
   {
     name: '畠中 一郎 さん',
     organization: 'ハイブリッド・パートナーズ株式会社　代表取締役',
-    position: (
-      <a
-        href="https://p-als.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="text-blue-600 underline"
-      >
-        一般財団法人すこやかさ ゆたかさの未来研究所 代表理事
-      </a>
-    ),
+    position: '一般財団法人すこやかさ ゆたかさの未来研究所 HP',
     info: '',
     image: '/登壇者_D_1.png',
   },
