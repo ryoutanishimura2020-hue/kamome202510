@@ -315,7 +315,7 @@ const schedule = [
         speakers: [
           { name: '大上 高充 さん', 
             organization: '元オムロン株式会社 執行役員 グローバル理財本部長', 
-            position: '中小機構 Science Tokyo 横浜ベンチャープラザ チーフインキュベーションマネージャ　　　　　同志社大学　ビジネス研究科 客員教授',
+            position: '中小機構 Science Tokyo 横浜ベンチャープラザ チーフインキュベーションマネージャ\n同志社大学　ビジネス研究科 客員教授',
             info: '',
             image: '/登壇者_F_1.png'
           },
