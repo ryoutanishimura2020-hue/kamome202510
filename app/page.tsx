@@ -284,9 +284,9 @@ const schedule = [
         speakers: [
           {
             name: '畠中 一郎 さん',
-            organization: 'ハイブリッド・パートナーズ株式会社　代表取締役',
+            organization: 'ハイブリッド・パートナーズ株式会社 代表取締役',
             organization2: '', 
-            position:  '一般財団法人すこやかさ ゆたかさの未来研究所　代表理事',
+            position:  '一般財団法人すこやかさ ゆたかさの未来研究所　　代表理事',
             info: '',
             image: '/登壇者_D_1.png',
           }
