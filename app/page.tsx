@@ -277,7 +277,7 @@ const schedule = [
           {
             name: '畠中 一郎 さん',
             organization: 'ハイブリッド・パートナーズ株式会社　代表取締役',
-            position:  '一般財団法人すこやかさ ゆたかさの未来研究所 HP https://p-als.com/',
+            position:  '一般財団法人すこやかさ ゆたかさの未来研究所 HP',
             positionUrl: 'https://p-als.com/',
             info: '',
             image: '/登壇者_D_1.png',
@@ -286,6 +286,27 @@ const schedule = [
       },
     ]
   },
+  
+{speakers.map((speaker) => (
+  <div key={speaker.name}>
+    <p>{speaker.organization}</p>
+    <p>
+      {speaker.positionUrl ? (
+        <a
+          href={speaker.positionUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-600 underline"
+        >
+          {speaker.position}
+        </a>
+      ) : (
+        speaker.position
+      )}
+    </p>
+  </div>
+))}
+    
   { startTime: '15:15', endTime: '15:30', event: '休憩', type: 'simple' },
   {
     startTime: '15:30',
