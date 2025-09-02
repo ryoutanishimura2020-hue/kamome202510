@@ -279,7 +279,7 @@ const schedule = [
             organization: 'ハイブリッド・パートナーズ株式会社　代表取締役',
             position:  '一般財団法人すこやかさ ゆたかさの未来研究所 HP',
             positionUrl: 'https://p-als.com/',
-            info: '',
+            info: 'https://p-als.com/',
             image: '/登壇者_D_1.png',
           }
         ]
