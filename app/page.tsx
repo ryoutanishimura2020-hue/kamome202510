@@ -286,6 +286,21 @@ const schedule = [
       },
     ]
   },
+
+{speaker.info && (
+  <p>
+    <a 
+      href={speaker.info} 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      className="text-blue-600 underline"
+    >
+      詳細はこちら
+    </a>
+  </p>
+)}
+
+  
     { startTime: '15:15', endTime: '15:30', event: '休憩', type: 'simple' },
   {
     startTime: '15:30',
