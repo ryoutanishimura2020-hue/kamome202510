@@ -404,6 +404,21 @@ const EventPopup: React.FC<EventPopupProps> = ({ session, eventType, startTime, 
                   <p className="font-bold text-sm">{speaker.name}</p>
                   <p className="text-xs">{speaker.organization}</p>
                   <p className="text-xs">{speaker.position}</p>
+<p className="text-xs">
+  {speaker.info ? (
+    <a 
+      href={speaker.info} 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      className="underline hover:text-yellow-200"
+    >
+      {speaker.position}
+    </a>
+  ) : (
+    speaker.position
+  )}
+</p>
+                  
                 </div>
               </div>
             ))}
