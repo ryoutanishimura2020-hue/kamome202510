@@ -188,7 +188,7 @@ const schedule = [
             organization2: '', 
             position: '収益管理部 宿泊レベニューマネージャー', 
             info: '',
-            image: '/登壇者_0_2.jpg'
+            image: '/登壇者_0_2_1.jpg'
           },
           { 
             name: '中川 徹 氏 (GMBA2015期)', 
@@ -249,7 +249,7 @@ const schedule = [
            organization2: '', 
            position: '代表取締役社長', 
            info: '', 
-           image: '/登壇者_B_2.png' }
+           image: '/登壇者_B_2_1.png' }
         ]
       }
     ]
@@ -313,7 +313,7 @@ const schedule = [
             organization2: '', 
             position: 'オーナー', 
             info: '',
-            image: '/登壇者_E_1.jpg'
+            image: '/登壇者_E_1_1.jpg'
           }
         ]
       },
