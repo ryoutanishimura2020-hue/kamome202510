@@ -230,7 +230,7 @@ const schedule = [
             position: '代表取締役社長', 
             info: '',
             image: '/登壇者_A_1_2.jpeg'
-          }
+          },
          { name: '伊藤 令 氏', 
            organization: 'アルテア技研 株式会社',
            organization2: '', 
