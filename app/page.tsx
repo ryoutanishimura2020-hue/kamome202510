@@ -243,7 +243,7 @@ const schedule = [
            organization2: '', 
            position: '法人連携統括責任者', 
            info: '', 
-           image: '/登壇者_B_1.jpg' },
+           image: '/登壇者_B_1_1.jpg' },
           { name: '青山 明弘 氏', 
            organization: 'ピープルポート株式会社', 
            organization2: '', 
