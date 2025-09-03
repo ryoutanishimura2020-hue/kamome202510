@@ -231,6 +231,18 @@ const schedule = [
             info: '',
             image: '/登壇者_A_1_2.jpeg'
           }
+         { name: '伊藤 令 氏', 
+           organization: 'アルテア技研 株式会社',
+           organization2: '', 
+           position: '', 
+           info: '', 
+           image: '/登壇者_A_1_1.jpg' },
+          { name: '山﨑 俊輔 氏', 
+           organization: '3X4 ジェネティクス株式会社 ',
+           organization2: '長岡工業高等専門学校 非常勤講師', 
+           position: '株式会社Bound for Boundary', 
+           info: '', 
+           image: '/登壇者_A_2.jpg' },
         ]
       },
       {
@@ -308,7 +320,7 @@ const schedule = [
         description: '生成AIに関する様々な情報を発信しているIkigai lab.の髙橋さんをお招きして、生成AIの「一丁目一番地」と言える基礎の部分をしっかりと押さえる45分にしたいと思います。\n生成AIは急速に進化しており、ビジネスの現場でも「調査・資料作成・アイデア発想・顧客対応」など幅広く活用されています。その一方で、正しく使うための前提知識や注意点を理解していないと、誤解やリスクにつながりかねません。\n本セッションでは、最新の動向や代表的な活用シーンも交えながら、基礎を体系的に学び、参加者の皆様が今後の実務に自信を持って生成AIを活用できることを目指します。',
         speakers: [
           { 
-            name: '髙橋　和馬 氏', 
+            name: '髙橋 和馬 氏', 
             organization: 'Ikigai lab. ', 
             organization2: '', 
             position: 'オーナー', 
