@@ -229,7 +229,7 @@ const schedule = [
             organization2: '', 
             position: '代表取締役社長', 
             info: '',
-            image: ''
+            image: '/登壇者_A_1_2.jpeg'
           }
         ]
       },
