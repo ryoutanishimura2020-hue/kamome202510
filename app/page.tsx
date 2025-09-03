@@ -210,7 +210,7 @@ const schedule = [
       }
     ]
   },
-  { startTime: '11:30', endTime: '13:00', event: 'ランチブレイク\n※昼食は各自、グロービス横浜校の外でよろしくお願いします', type: 'simple' },
+  { startTime: '11:30', endTime: '13:00', event: 'ランチブレイク\n※昼食は各自、グロービス横浜校の外でお願いします', type: 'simple' },
   {
     startTime: '13:00',
     endTime: '14:00',
