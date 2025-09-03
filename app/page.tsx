@@ -242,7 +242,7 @@ const schedule = [
            organization2: '長岡工業高等専門学校 非常勤講師', 
            position: '株式会社Bound for Boundary', 
            info: '', 
-           image: '/登壇者_A_2.jpeg' },
+           image: '/登壇者_A_2.jpeg' }
         ]
       },
       {
