@@ -62,7 +62,7 @@ const HeroAnimation = () => {
     <div className="absolute items-center inset-0 w-full h-full overflow-hidden">
       {/* Background image - static */}
       <img
-        src="/bg_ver2.png"
+        src="/bg.png"
         alt=""
         className="absolute inset-0 w-full h-full object-contain"
         aria-hidden="true"
@@ -98,7 +98,7 @@ const HeroAnimation = () => {
       {/* Top overlay - static */}
     <div className="absolute inset-0 flex items-center justify-center">
       <img
-        src="/kamome_logo_padding.png"
+        src="/kamome_logo_2025.png"
         alt=""
         className="w-1/2 h-auto object-contain"
         aria-hidden="true"
