@@ -98,7 +98,7 @@ const HeroAnimation = () => {
       {/* Top overlay - static */}
     <div className="absolute inset-0 flex items-center justify-center">
       <img
-        src="/kamome_logo.png"
+        src="/kamome_logo_2025.png"
         alt=""
         className="w-1/2 h-auto object-contain"
         aria-hidden="true"
